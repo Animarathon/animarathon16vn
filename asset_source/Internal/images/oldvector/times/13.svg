@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel unknown"
+   sodipodi:docname="1PM.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="408.50575"
+     inkscape:cy="175.9881"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <rect
+       style="fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:3.65399981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4286"
+       width="516.21436"
+       height="312.42136"
+       x="-4.1071777"
+       y="-2.085695"
+       ry="0.55484182" />
+    <g
+       aria-label="10AM"
+       transform="matrix(5.2625998,0,0,5.2625998,-324.85142,-1436.7891)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot4272">
+      <path
+         d="m 91.74927,316.97889 h 110.592 v -20.736 h -141.12 v 12.48 c 0,0 13.824,4.8 17.28,22.08 h 13.248 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#ffffff"
+         id="path4280"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="PM"
+       transform="matrix(0.83302547,0,0,0.83302547,-408.46936,-296.34128)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ccff00;fill-opacity:1;stroke:none"
+       id="flowRoot4270">
+      <path
+         d="m 703.65672,584.72293 h 27.072 c 21.888,0 36.096,-17.856 36.096,-45.12 0,-25.92 -13.824,-42.816 -35.136,-42.816 h -51.648 v 137.856 h 23.616 z m 0,-23.616 v -40.704 h 18.816 c 14.784,0 20.736,5.568 20.736,19.776 0,14.208 -5.76,20.928 -17.664,20.928 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:192px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold Condensed';fill:#ccff00;fill-opacity:1"
+         id="path4271" />
+      <path
+         d="m 893.52072,496.78693 h -33.984 l -20.352,109.44 -20.736,-109.44 h -34.368 v 137.856 h 21.888 v -116.928 l 20.928,116.928 h 23.232 l 21.504,-116.928 v 116.928 h 21.888 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:192px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold Condensed';fill:#ccff00;fill-opacity:1"
+         id="path4273" />
+    </g>
+  </g>
+</svg>

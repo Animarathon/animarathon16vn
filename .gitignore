@@ -1,0 +1,14 @@
+*.rpyc
+*.rpy.bak
+*.save
+*.rpyb
+/cashe/bytecode.rpyb
+/cashe/pyanalysis.rpyb
+/cashe/screens.rpyb
+game/tl/None/common.rpymc
+game/saves/
+game/saves/persistent
+log.txt
+errors.txt
+traceback.txt
+
