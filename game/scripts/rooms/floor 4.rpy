@@ -47,7 +47,10 @@ label sezsez_mission_start:
     ann_thoughts "It's dark in here. I'm likely to be eaten by a monster!"
 
     play sound switch37
+    # Makes the sound of a light switch.
+
     scene bg power
+    # Do not use a dissolve here.
 
     show sezsez liberty
     with easeinright
@@ -115,6 +118,7 @@ label sezsez_mission_start:
 
     play sound switch37
     scene black
+    # Makes the sound of a light switch.
 
     return
 

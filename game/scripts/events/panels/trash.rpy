@@ -145,9 +145,6 @@ label trash_notfan:
     show cody maison
     with easeinright
 
-    show cody maison
-    with easeinright
-
     cm "I could say the same! You are the splitting image of Welcherta herself! {b}MEGA WELCHERT FAN ALERT!{/b}"
 
     hide cody maison
@@ -177,7 +174,7 @@ label trash_notfan:
     show guest welchertaku
     with easeinright
 
-    guest_welchertaku "{b}YEAH!{/b} [favorite_anime] is pretensions trash for loosers!"
+    guest_welchertaku "{b}YEAH!{/b} [favorite_anime] is trash!"
 
     hide guest
     with easeoutright
@@ -281,7 +278,7 @@ label trash_notfan:
     show cody maison
     with easeinright
 
-    cm "Not only that brother! After being forced to move to San Francisco with his uncle Dito he has to overcome the eternal fog!"
+    cm "Not only that brother! After being forced to move to San Francisco with his cousin Dito he has to overcome the eternal fog!"
 
     hide cody maison
     with easeoutright
@@ -329,7 +326,7 @@ label trash_notfan:
     show cody maison
     with easeinright
 
-    cm "I would! Panel's over! Let's roleplay it in the stairwell pronto!"
+    cm "I know I would! Panel's over! Let's roleplay it in the stairwell pronto!"
 
     hide cody maison
     with easeoutright
@@ -343,14 +340,6 @@ label trash_notfan:
     with easeoutright
 
     # If I hear a peep about stairwell activities IRL, I'll make you regret it.
-
-    show cody maison
-    with easeinright
-
-    cm "I would! Panel's over! Let's roleplay it in the stairwell pronto!"
-
-    hide cody maison
-    with easeoutright
 
     queue music this_reminds_me_of_something_p3
 
