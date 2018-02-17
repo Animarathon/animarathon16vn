@@ -110,6 +110,9 @@ label bg_hub:
 
         call kawaii_kafe
 
+        $ time_factor = 2
+        call advance_time
+
     # Disabled Rooms
 
     #if _return == "game":
