@@ -481,11 +481,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142135"
-     inkscape:cx="374.81271"
-     inkscape:cy="2433.0981"
+     inkscape:zoom="0.70710675"
+     inkscape:cx="-167.12839"
+     inkscape:cy="2360.1278"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer11"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -750,7 +750,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path4509-4"
-         d="m 194.17848,87.344169 c 0,0 -1.7209,-21.075259 9.5274,-23.182326 10.08737,0.334065 13.25003,18.160757 13.25003,18.160757 0,0 -1.08207,-23.577843 -13.52227,-22.495323 -12.44026,1.082134 -9.25516,27.516892 -9.25516,27.516892 z"
+         d="m 194.21569,87.335901 c 0,0 -1.75811,-21.066991 9.49019,-23.174058 10.08737,0.334065 13.25003,18.160757 13.25003,18.160757 0,0 -1.08207,-23.577843 -13.52227,-22.495323 -12.86121,1.128906 -9.21795,27.508624 -9.21795,27.508624 z"
          style="display:inline;fill:url(#linearGradient717-3);fill-opacity:1;stroke:none;stroke-width:1.96191025px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccccc" />
       <path
@@ -776,7 +776,7 @@
       <path
          sodipodi:nodetypes="ccccc"
          style="display:inline;fill:url(#linearGradient715-0);fill-opacity:1;stroke:none;stroke-width:2.11234498px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 253.64984,79.204062 c 2.08432,-9.198987 9.86972,-15.575831 16.90455,-16.013233 15.55627,-0.653394 17.08542,16.551006 17.08542,16.551006 0,0 0.0886,-22.996903 -16.074,-21.633542 -16.1627,1.36328 -17.91597,21.095769 -17.91597,21.095769 z"
+         d="m 253.64984,79.204062 c 2.08432,-9.198987 9.86972,-15.575831 16.90455,-16.013233 15.55627,-0.653394 16.9451,16.556853 16.9451,16.556853 0,0 0.22892,-23.00275 -15.93368,-21.639389 -16.1627,1.36328 -17.91597,21.095769 -17.91597,21.095769 z"
          id="path4505-6"
          inkscape:connector-curvature="0" />
       <path
