@@ -24,40 +24,67 @@
 #   / _ \ / __| '_ \| \ \ / / _ \ '_ ` _ \ / _ \ '_ \| __/ __|
 #  / ___ \ (__| | | | |\ V /  __/ | | | | |  __/ | | | |_\__ \
 # /_/   \_\___|_| |_|_| \_/ \___|_| |_| |_|\___|_| |_|\__|___/
-# Grant achievements with $ achievement.grant("")
+# Grant achievements with
+# $ achievement.grant("")
 
 init python:
 
-    # Plot Achievements
-
-    achievement.register("SEZ WHO")
+    #  ____  _       _   
+    # |  _ \| | ___ | |_ 
+    # | |_) | |/ _ \| __|
+    # |  __/| | (_) | |_ 
+    # |_|   |_|\___/ \__|
 
     achievement.register("Black Out")
+    # Awarded at the end of the normal route.
+
+    achievement.register("SEZ WHO")
+    # Awarded at the end of the SEZSEZ route.
     
     achievement.register("The Hero of Lake Erie")
+    # Awarded at the end of the Frog Sensei route.
     
-    # Panel Achievements
+    #  ____                  _ 
+    # |  _ \ __ _ _ __   ___| |
+    # | |_) / _` | '_ \ / _ \ |
+    # |  __/ (_| | | | |  __/ |
+    # |_|   \__,_|_| |_|\___|_|
     
     achievement.register("Electric Cosplay")
+    # Awarded at the end of the advanced cosplay panel.
 
     achievement.register("The Deceiver")
+    # Awarded at the end of the chinese cartoon panel.
 
     achievement.register("Buff Ann!")
+    # Awarded at the end of the GPM panel.
 
     achievement.register("My Noodles!")
+    # Awarded at the end of the noodles panel.
 
     achievement.register("Robots!")
+    # Awarded at the end of the robot panel.
 
     achievement.register("Welchertaku")
+    # Awarded at the end of the Welchert in the Crib: Z panel.
+
+    achievement.register("A True Fan!")
+    # Awarded at the end of the GIS panel.
+
+    achievement.register("Drummer!")
+    # Awarded at the end of the taiko panel.
     
-    # Other Achievements
+    #   ___  _   _               
+    #  / _ \| |_| |__   ___ _ __ 
+    # | | | | __| '_ \ / _ \ '__|
+    # | |_| | |_| | | |  __/ |   
+    #  \___/ \__|_| |_|\___|_|   
 
     achievement.register("RTFM")
+    # Awarded after the tutorial.
     
     achievement.register("Cheez Loq")
-
-    achievement.register("Heated Gaming Moment!")
+    # Awarded after ordering a cheez loq at Rays Rations.
 
     achievement.register("Delicious Ravs")
-
-    achievement.register("How'd you end up here?!")
+    # Awarded after ordering ravs at Rays Rations.
