@@ -52,11 +52,11 @@
        inkscape:collect="always"
        id="linearGradient4401">
       <stop
-         style="stop-color:#9fb3ff;stop-opacity:1"
+         style="stop-color:#ddb6aa;stop-opacity:1"
          offset="0"
          id="stop4397" />
       <stop
-         style="stop-color:#598080;stop-opacity:0;"
+         style="stop-color:#e9c6af;stop-opacity:1"
          offset="1"
          id="stop4399" />
     </linearGradient>
@@ -222,7 +222,7 @@
        x2="446.77939"
        y2="74.169838"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.7549927,0,0,1.7549927,-138.72454,119.67698)" />
+       gradientTransform="matrix(4.1481981,0,0,4.1481981,-1199.7094,-65.228188)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4384"
@@ -249,9 +249,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="799.20006"
-     inkscape:cy="532.87348"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="1062.6881"
+     inkscape:cy="1034.8896"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -311,6 +311,12 @@
      id="layer1"
      transform="translate(-394.37453,-150.25276)">
     <path
+       style="fill:#000000;fill-opacity:1;stroke:#070808;stroke-width:0.22270532px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 586.19902,243.57469 c -1.74172,9.42017 10.9982,50.71149 25.20312,52.56064 2.38161,-4.99624 -0.20005,-54.52102 -6.36642,-60.42715 -6.16638,-5.9061 -18.8367,7.86651 -18.8367,7.86651 z"
+       id="path900"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsc" />
+    <path
        style="fill:#000000;fill-opacity:1;stroke:#070808;stroke-width:0.57308364px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 712.52302,252.61242 c 0,0 5.86627,1.46621 16.1369,-12.6635 3.11156,-3.61812 33.1008,-68.6305 -44.26548,-81.32024 -77.36631,-12.6897 -101.10831,55.67106 -102.33639,69.99811 -4.26725,21.12921 26.60746,37.25042 69.1794,12.28036 59.3551,10.64302 61.28557,11.70527 61.28557,11.70527 z"
        id="path4522"
@@ -336,8 +342,8 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.95868826;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     <path
        sodipodi:nodetypes="ccc"
-       style="fill:url(#linearGradient4403);fill-opacity:1;stroke:none;stroke-width:1.30349088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 642.39932,244.47217 c 0,0 -0.7853,5.16626 -3.07921,10.27848 6.86462,-3.29508 10.23179,-1.53009 10.23179,-1.53009"
+       style="fill:url(#linearGradient4403);fill-opacity:1;stroke:none;stroke-width:3.08100343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 646.5983,229.74465 c 0,0 -1.85618,12.21125 -7.27819,24.29478 17.44704,4.1818 24.18443,-3.6166 24.18443,-3.6166"
        id="path4489"
        inkscape:connector-curvature="0" />
     <ellipse
@@ -405,6 +411,12 @@
        inkscape:connector-curvature="0"
        id="path4510"
        d="m 593.5347,217.34689 c 16.62044,1.72486 88.66338,-20.16253 89.91292,-45.1173 -22.18683,-13.72523 -67.70434,6.31727 -77.12035,17.85642 -9.41596,11.53912 -12.79257,27.26088 -12.79257,27.26088 z"
+       style="fill:#000000;fill-opacity:1;stroke:#070808;stroke-width:0.38845488px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccsc"
+       inkscape:connector-curvature="0"
+       id="path898"
+       d="m 736.49639,201.38615 c 4.92461,15.96751 -2.53239,90.89171 -26.76757,96.97112 -5.13758,-8.17363 -16.94631,-95.30547 -7.45896,-106.78602 9.48733,-11.48053 34.22653,9.8149 34.22653,9.8149 z"
        style="fill:#000000;fill-opacity:1;stroke:#070808;stroke-width:0.38845488px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g

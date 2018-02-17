@@ -205,6 +205,28 @@
        y1="201.8754"
        x2="476.33765"
        y2="280.35568" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="linearGradient4375"
+       x1="68.273849"
+       y1="248.32983"
+       x2="66.444138"
+       y2="248.70354"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4576748,-0.50693253,0.50693253,6.4576748,-309.05758,-1454.8196)" />
+    <linearGradient
+       id="linearGradient886"
+       inkscape:collect="always">
+      <stop
+         id="stop882"
+         offset="0"
+         style="stop-color:#e9c6af;stop-opacity:0" />
+      <stop
+         id="stop884"
+         offset="1"
+         style="stop-color:#d9b8a3;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -213,9 +235,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1042.6595"
-     inkscape:cy="506.52732"
+     inkscape:zoom="2.8"
+     inkscape:cx="981.55434"
+     inkscape:cy="611.94587"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -488,6 +510,12 @@
        id="path4456"
        style="display:inline;opacity:0.98999999;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.00154282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        sodipodi:type="star" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4489"
+       d="m 260.53184,89.335453 c 0,0 -6.22578,19.592797 -14.43888,28.208767 9.76481,2.82794 15.24712,-1.19691 15.24712,-1.19691"
+       style="fill:url(#linearGradient4375);fill-opacity:1;stroke:none;stroke-width:1.01950741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
   </g>
   <g
      inkscape:groupmode="layer"

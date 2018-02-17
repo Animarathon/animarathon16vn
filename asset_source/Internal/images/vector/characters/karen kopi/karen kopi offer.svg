@@ -15,7 +15,7 @@
    viewBox="0 0 220.47075 438.22501"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="karen kopi offer.svg"
    inkscape:export-filename="/home/mbrickn/Projects/Operation-Ohio/game/images/characters/karen kopi/karen kopi offer.png"
    inkscape:export-xdpi="90"
@@ -404,6 +404,28 @@
        y1="443.16553"
        x2="433.41565"
        y2="392.24506" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4557-6"
+       id="linearGradient4559-3"
+       x1="428.10745"
+       y1="110.00358"
+       x2="433.6265"
+       y2="107.42054"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2723478,0,0,1.2723478,-117.50937,-27.817136)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4557-6">
+      <stop
+         style="stop-color:#d7afa6;stop-opacity:1"
+         offset="0"
+         id="stop4553-7" />
+      <stop
+         style="stop-color:#e9c6af;stop-opacity:1"
+         offset="1"
+         id="stop4555-5" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -412,15 +434,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="18.392668"
-     inkscape:cy="1270.1366"
+     inkscape:zoom="1.979899"
+     inkscape:cx="511.76822"
+     inkscape:cy="1221.5771"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
@@ -576,12 +598,6 @@
        cx="452.35141"
        id="ellipse4497"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.07609129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
-    <path
-       sodipodi:nodetypes="ccc"
-       style="fill:url(#linearGradient4559);fill-opacity:1;stroke:none;stroke-width:0.66759086;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 431.46786,102.13822 c 0,0 0.76756,1.64605 -3.36042,7.86536 7.8676,-1.33211 9.93995,1.22199 9.93995,1.22199"
-       id="path4489"
-       inkscape:connector-curvature="0" />
     <ellipse
        ry="11.222578"
        rx="6.187448"
@@ -721,6 +737,12 @@
        id="path4531"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Sniglet;-inkscape-font-specification:Sniglet;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#radialGradient4567);fill-opacity:1;stroke:none;stroke-width:0.87102377"
        d="m 444.64351,56.222024 q -1.96224,-4.255985 -8.66468,-8.983778 -3.11758,-2.206537 -2.84997,-5.222853 0.11278,-1.270927 0.67409,-2.39957 0.57818,-1.127158 1.59143,-1.959527 0.97626,-0.801485 2.19063,-1.20611 1.14356,-0.376748 2.44835,-0.260981 1.30481,0.115773 2.36412,0.687971 1.1088,0.593667 1.94416,1.572971 0.81988,0.960857 1.19068,2.172198 0.38915,1.195909 0.27186,2.517667 0.11729,-1.321758 0.69404,-2.431965 0.59516,-1.12564 1.57142,-1.927137 0.99475,-0.81692 2.19061,-1.20611 1.14365,-0.376741 2.44846,-0.260971 1.30479,0.115759 2.36413,0.687968 1.12418,0.612113 1.94408,1.572963 0.8508,0.997756 1.20463,2.207606 0.37078,1.211342 0.25802,2.48227 -0.27065,3.050204 -3.72502,4.639488 -7.43016,3.47388 -10.11104,7.3179 z" />
+    <path
+       sodipodi:nodetypes="ccc"
+       style="fill:url(#linearGradient4559-3);fill-opacity:1;stroke:none;stroke-width:0.84940791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 431.46786,102.13822 c 0,0 0.9766,2.09434 -4.27564,10.00748 4.5313,6.18954 12.64708,1.55479 12.64708,1.55479"
+       id="path4489-3"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

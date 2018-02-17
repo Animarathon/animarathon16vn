@@ -25,6 +25,18 @@
   <defs
      id="defs2">
     <linearGradient
+       id="linearGradient908"
+       inkscape:collect="always">
+      <stop
+         id="stop904"
+         offset="0"
+         style="stop-color:#de9564;stop-opacity:1" />
+      <stop
+         id="stop906"
+         offset="1"
+         style="stop-color:#ffb380;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient900">
       <stop
@@ -166,7 +178,7 @@
        gradientTransform="matrix(0.53872217,0,0,0.53872217,-176.36528,130.02286)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4376"
+       xlink:href="#linearGradient908"
        id="linearGradient4378"
        x1="439.38412"
        y1="140.8439"
@@ -345,16 +357,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="443.42401"
-     inkscape:cy="321.8794"
+     inkscape:zoom="1.979899"
+     inkscape:cx="961.97435"
+     inkscape:cy="553.13048"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -548,7 +560,7 @@
     <path
        sodipodi:nodetypes="ccc"
        style="fill:url(#linearGradient4378);fill-opacity:1;stroke:none;stroke-width:1.49858057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 722.98711,398.56194 c 0,0 -2.07845,12.35797 -4.71564,18.23532 7.892,-3.78825 11.76312,-1.7591 11.76312,-1.7591"
+       d="m 722.98711,398.56194 c 0,0 -2.07845,12.35797 -4.71564,18.23532 7.13605,2.25937 11.76312,-1.7591 11.76312,-1.7591"
        id="path4489"
        inkscape:connector-curvature="0" />
     <path

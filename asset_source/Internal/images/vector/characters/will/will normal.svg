@@ -15,7 +15,7 @@
    viewBox="0 0 165.58997 447.42778"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="will normal.svg"
    inkscape:export-filename="/home/mbrickn/Projects/Operation-Ohio/game/images/characters/will/will normal.png"
    inkscape:export-xdpi="90"
@@ -202,6 +202,28 @@
        y1="447.4888"
        x2="415.38528"
        y2="415.33719" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="linearGradient4375"
+       x1="68.273849"
+       y1="248.32983"
+       x2="66.444138"
+       y2="248.70354"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4576748,-0.50693253,0.50693253,6.4576748,-146.28037,-1488.1175)" />
+    <linearGradient
+       id="linearGradient886"
+       inkscape:collect="always">
+      <stop
+         id="stop882"
+         offset="0"
+         style="stop-color:#e9c6af;stop-opacity:0" />
+      <stop
+         id="stop884"
+         offset="1"
+         style="stop-color:#d9b8a3;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -210,15 +232,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-212.06012"
-     inkscape:cy="830.24801"
+     inkscape:zoom="3.959798"
+     inkscape:cx="220.60841"
+     inkscape:cy="1406.6073"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
@@ -490,6 +512,12 @@
        id="path4456"
        style="display:inline;opacity:0.98999999;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.00154282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        sodipodi:type="star" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4489"
+       d="m 423.30905,56.037595 c 0,0 -6.22577,19.592794 -14.43888,28.208768 9.76482,2.827939 15.24712,-1.196911 15.24712,-1.196911"
+       style="fill:url(#linearGradient4375);fill-opacity:1;stroke:none;stroke-width:1.01950741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
   </g>
   <g
      inkscape:groupmode="layer"

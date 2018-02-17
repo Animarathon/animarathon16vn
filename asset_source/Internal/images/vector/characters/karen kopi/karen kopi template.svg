@@ -88,7 +88,7 @@
        inkscape:collect="always"
        id="linearGradient4557">
       <stop
-         style="stop-color:#2e7df5;stop-opacity:1;"
+         style="stop-color:#d7afa6;stop-opacity:1"
          offset="0"
          id="stop4553" />
       <stop
@@ -392,9 +392,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="-111.66924"
-     inkscape:cy="-198.43049"
+     inkscape:zoom="1.979899"
+     inkscape:cx="1157.7903"
+     inkscape:cy="514.4603"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -538,7 +538,7 @@
     <path
        sodipodi:nodetypes="ccc"
        style="fill:url(#linearGradient4559);fill-opacity:1;stroke:none;stroke-width:0.84940785;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 276.0743,135.64888 c 0,0 0.9766,2.09434 -4.27564,10.00748 10.01033,-1.69491 12.64708,1.55479 12.64708,1.55479"
+       d="m 276.0743,135.64888 c 0,0 0.9766,2.09434 -4.27564,10.00748 4.5313,6.18954 12.64708,1.55479 12.64708,1.55479"
        id="path4489"
        inkscape:connector-curvature="0" />
     <ellipse
