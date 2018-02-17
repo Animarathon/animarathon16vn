@@ -141,3 +141,7 @@ February 8th 2018
 1.0
 February 9th 2018
 Ready or not, here I come!
+
+1.01
+February 17th 2018
+Cleaned up some minor typos, and improved documentation.

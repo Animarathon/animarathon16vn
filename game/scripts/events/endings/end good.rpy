@@ -31,7 +31,7 @@ label end_good:
 
     ann_thoughts "[o], [fs], [cm], and [kz] put aside their differences and started a boy band."
 
-    if magical_girl == True:
+    if magical_girl:
 
         ann_thoughts "[aa] paid off ANWO's window breaking debts, then made big money through strategic investments."
 
@@ -40,6 +40,10 @@ label end_good:
         ann_thoughts "[aa] paid ANWO's window breaking debts but was later jailed for fraud. The prison grew to fear her."
 
     ann_thoughts "The SEZSEZ gang feasted on fries, and gave out candy at the annual bird beheading."
+
+    if power_code:
+
+        ann_thoughts "Pachinko everywhere ceased to be popular, and the machines only remain in museums."
 
     ann_thoughts "As for me?"
 

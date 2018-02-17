@@ -152,18 +152,6 @@ label tutorial_background:
 
     return
 
-label tutorial_visual_novel:
-
-    # Honestly not sure if I should include this part in the game or not.
-
-    system "A visual novel is a game that plays much like a book. The player interacts with the game by making choices at critical points."
-
-    system "This game in particular is an Original English Language Visual Novel or OELVN. It was written in English, and not created by a Japanese studio."
-
-    system "This game does a few things differently then a typical OELVN. It should not be considered representative of the genre."
-
-    return
-
 label tutorial_controls:
 
     system "To progress use the {b}spacebar{/b} or {b}left mouse button.{/b}"
