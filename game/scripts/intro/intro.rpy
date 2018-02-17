@@ -60,7 +60,7 @@ label intro:
     hide text
     with dissolve
 
-    scene union tower
+    scene bg union tower
     with dissolve
 
     show text "{size=70}Chapter 0: Longitude Highway{/size}" at truecenter
@@ -88,9 +88,6 @@ label intro:
 
     hide ann
     with easeoutleft
-
-    scene union tower
-    with dissolve
     
     ann_thoughts "That's my brother over there. We were going to meet up at 7:20."
 

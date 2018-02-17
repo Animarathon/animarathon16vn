@@ -44,7 +44,7 @@
 
 label trash:
 
-    scene bathroom
+    scene bg bathroom
     with dissolve
 
     play music this_reminds_me_of_something_p0 fadeout 1

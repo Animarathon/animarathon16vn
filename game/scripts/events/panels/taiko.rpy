@@ -43,7 +43,7 @@
 
 label taiko:
 
-    scene panel room japanese
+    scene bg panel room japanese
     with dissolve
 
     play music yo_p0 fadeout 1

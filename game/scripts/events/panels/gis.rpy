@@ -45,7 +45,7 @@
 
 label gis:
 
-    scene panel room large
+    scene bg panel room large
     with dissolve
 
     play music this_reminds_me_of_something_p0 fadeout 1

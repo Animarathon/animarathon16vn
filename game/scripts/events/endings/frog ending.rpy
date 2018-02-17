@@ -298,7 +298,7 @@ label fs_explain:
 
 label fs_takeoff:
 
-    scene port
+    scene bg port
 
     show plane at right
 

@@ -45,7 +45,7 @@
 
 label chinese:
 
-    scene panel room old
+    scene bg panel room old
     with dissolve
 
     play music this_reminds_me_of_something_p0 fadeout 1

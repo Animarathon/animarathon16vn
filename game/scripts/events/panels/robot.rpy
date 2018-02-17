@@ -43,7 +43,7 @@
 
 label robot:
 
-    scene panel room wet
+    scene bg panel room wet
     with dissolve
 
     play music moist_mechas fadeout 1

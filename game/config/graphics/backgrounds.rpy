@@ -30,17 +30,11 @@ image bg artists alley:
 image bg atrium:
     "backgrounds/atrium.webp"
 
-image bg beach:
-    "backgrounds/beach.webp"
-
 image bg blossom:
     "backgrounds/blossom.webp"
 
 image bg building old:
     "backgrounds/building old.webp"
-
-image bg chamber:
-    "backgrounds/chamber.webp"
 
 image bg cherry:
     "backgrounds/cherry.webp"
@@ -51,11 +45,8 @@ image bg clouds:
 image bg coffee shop:
     "backgrounds/coffee shop.webp"
 
-image bg cosplay lab 0:
-    "backgrounds/cosplay lab 0.webp"
-
-image bg cosplay lab 1:
-    "backgrounds/cosplay lab 1.webp"
+image bg cosplay lab:
+    "backgrounds/cosplay lab.webp"
 
 image bg film room:
     "backgrounds/film room.webp"
@@ -122,9 +113,6 @@ image bg stairway:
 
 image bg tea room:
     "backgrounds/tea room.webp"
-
-image bg tokyo:
-    "backgrounds/tokyo.webp"
 
 image bg bowling green:
     "backgrounds/bowling green.webp"

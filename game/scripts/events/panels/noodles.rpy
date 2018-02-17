@@ -48,7 +48,7 @@
 
 label noodles:
 
-    scene tea room
+    scene bg tea room
     with dissolve
 
     play music water fadeout 1
@@ -530,7 +530,7 @@ label noodles_awake:
             hide paz ta
             with easeoutright
 
-            scene panel room dark
+            scene bg panel room dark
             with dissolve
 
             show guest furry

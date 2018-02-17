@@ -43,7 +43,7 @@
 
 label gpm:
 
-    scene gym
+    scene bg gym
     with dissolve
 
     play music yo_p0 fadeout 1
