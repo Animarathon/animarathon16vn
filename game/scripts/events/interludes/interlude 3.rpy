@@ -42,7 +42,7 @@ label interlude_3:
 
     menu:
 
-        ann_thoughts "I can't loose here! I need to gain the advantage!"
+        ann_thoughts "I can't lose here! I need to gain the advantage!"
 
         "(Anime Yelling)" if energy >= 50:
 

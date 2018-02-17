@@ -73,7 +73,7 @@ label end_time:
 
     a "{i}!!!{/i}" with vpunch
     
-    ann_thoughts "MY CHEST! I'm pinned..." with vpunch
+    ann_thoughts "{b}AHHH!{/b} I'm pinned..." with vpunch
 
     with vpunch
 

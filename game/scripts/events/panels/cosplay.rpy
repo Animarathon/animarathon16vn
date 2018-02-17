@@ -908,7 +908,7 @@ label cosplay_awake:
             show guest cosplay cop
             with easeinright
 
-            guest_cosplay_cop "I have to say defendant, I've never seen someone loose a trial so quickly. You're going to the maximum fashion {b}Cosplay Clink{/b} for a long time!"
+            guest_cosplay_cop "I have to say defendant, I've never seen someone lose a trial so quickly. You're going to the maximum fashion {b}Cosplay Clink{/b} for a long time!"
 
             hide guest
             with easeoutright
