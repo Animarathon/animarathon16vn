@@ -348,14 +348,14 @@ label trash_notfan:
     show cody maison
     with easeinright
 
-    cm "{b}WAIT{/b}! I forgot about {b}YOU{/b}!"
+    cm "{b}WAIT{/b}! I forgot to deal with {b}YOU{/b}!"
 
     hide cody maison
     with easeoutright
 
     menu:
     
-        ann_thoughts "He's looking right at me! What should I do!"
+        ann_thoughts "He's looking right at me! What should I do?"
 
         "Deny":
 
@@ -422,7 +422,7 @@ label trash_notfan:
             show cody maison
             with easeinright
 
-            cm "It's a secret technique learned only by San Fransisco's most elite field hockey players, like Welchert or Zebulon the Third."
+            cm "It's a secret technique learned only by the most elite field hockey players of San Francisco, like Welchert or Zebulon the Third."
 
             hide cody maison
             with easeoutright
@@ -544,7 +544,7 @@ label trash_fan:
     show ann genki
     with easeinleft
 
-    a "I look just like the leading heroine of [favorite_anime] naturally! It's the ultimate cosplay!"
+    a "I look just like the leading heroine of [favorite_anime] with just some hair dye! It's the ultimate cosplay!"
 
     hide ann
     with easeoutleft
