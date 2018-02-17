@@ -1157,8 +1157,9 @@ label cosplay_awake:
     hide ann
     with easeoutleft
 
-    # FIXME
-    # Determine balanced reward for panels.
+    python:
+        money += 100
+        pachinko_balls += 30000
 
     return
             

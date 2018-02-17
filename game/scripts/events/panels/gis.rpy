@@ -443,8 +443,6 @@ label gis_considerations:
 
             ann_thoughts "I wonder what he'll have to say?"
 
-            # FIXME
-
         "What is [favorite_anime]?":
 
             ann_thoughts "[favorite_anime] is great! I love [favorite_anime]!"

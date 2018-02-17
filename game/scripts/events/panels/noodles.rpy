@@ -494,7 +494,7 @@ label noodles_awake:
 
     ann_thoughts "It just falls on the ground."
 
-    # FIXME: I'm not sure if I can pull this off with artwork. If I can it would be better to do it that way.
+    # FIXME: This would be a good CG, but I lack the talent to pull it off in a funny way.
 
     ann_thoughts "Everyone is looking at me, and this is very uncomfortable."
 
