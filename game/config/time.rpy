@@ -41,7 +41,6 @@ label advance_time:
         time += (time_factor)
         hunger += (difficulty_factor*time_factor)
         energy -= (difficulty_factor*time_factor)
-    call display_time
     
     # Reset the time factor to a sane value.
     $ time_factor = 1
@@ -70,18 +69,12 @@ label display_time:
 
         pause 3.0
 
-        hide time 9
-        with dissolve
-
     if (time >= 10 and time < 11):
 
         show time 10
         with dissolve
 
         pause 3.0
-
-        hide time 10
-        with dissolve
 
     if (time >= 11 and time < 12):
 
@@ -90,18 +83,12 @@ label display_time:
 
         pause 3.0
 
-        hide time 11
-        with dissolve
-
     if (time >= 12 and time < 13):
 
         show time 12
         with dissolve
 
         pause 3.0
-
-        hide time 12
-        with dissolve
 
     if (time >= 13 and time < 14):
 
@@ -110,18 +97,12 @@ label display_time:
 
         pause 3.0
 
-        hide time 13
-        with dissolve
-
     if (time >= 14 and time < 15):
 
         show time 14
         with dissolve
 
         pause 3.0
-
-        hide time 14
-        with dissolve
 
     if (time >= 15 and time < 16):
 
@@ -130,18 +111,12 @@ label display_time:
 
         pause 3.0
 
-        hide time 15
-        with dissolve
-
     if (time >= 16 and time < 17):
 
         show time 16
         with dissolve
 
         pause 3.0
-
-        hide time 16
-        with dissolve
 
     if (time >= 17 and time < 18):
 
@@ -150,18 +125,12 @@ label display_time:
 
         pause 3.0
 
-        hide time 17
-        with dissolve
-
     if (time >= 18 and time < 19):
 
         show time 18
         with dissolve
 
         pause 3.0
-
-        hide time 18
-        with dissolve
 
     if (time >= 19 and time < 20):
 
@@ -170,18 +139,12 @@ label display_time:
 
         pause 3.0
 
-        hide time 19
-        with dissolve
-
     if (time >= 20 and time < 21):
 
         show time 20
         with dissolve
 
         pause 3.0
-
-        hide time 20
-        with dissolve
 
     if (time >= 21 and time < 22):
 
@@ -190,18 +153,12 @@ label display_time:
 
         pause 3.0
 
-        hide time 21
-        with dissolve
-
     if (time >= 22 and time < 23):
 
         show time 22
         with dissolve
 
         pause 3.0
-
-        hide time 22
-        with dissolve
 
     if (time >= 23 and time < 24):
 
@@ -210,18 +167,12 @@ label display_time:
 
         pause 3.0
 
-        hide time 23
-        with dissolve
-
     if (time >= 24 and time < 25):
 
         show time 24
         with dissolve
 
         pause 3.0
-
-        hide time 24
-        with dissolve
 
     window show
 

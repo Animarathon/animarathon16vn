@@ -22,15 +22,20 @@ label bg_hub:
 
     play music breathe_short fadeout 1
 
+    call display_time
+    # Show the time to the player
+
     scene sky blue
+    with dissolve
     show bg tile yellow
+    with dissolve
+    # Create a tiled background
 
     show union3d at left
+    # Show the union map.
 
     show side_schedule at right
-
-    # FIXME:    Show panel listing at right
-    #           With Time Indicator
+    # Show a schedule to help the player make decisions.
 
     window hide None
     # This hides the textbox to make room for the GUI.
