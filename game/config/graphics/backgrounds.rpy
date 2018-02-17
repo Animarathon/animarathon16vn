@@ -30,6 +30,9 @@ image bg artists alley:
 image bg atrium:
     "backgrounds/atrium.webp"
 
+image bg bathroom:
+    "backgrounds/bathroom.webp"
+
 image bg blossom:
     "backgrounds/blossom.webp"
 
