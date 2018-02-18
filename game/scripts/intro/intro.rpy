@@ -551,7 +551,7 @@ label pachinko_tutorial_over:
 
     menu:
 
-        aa "Desunately not, though I need to know if you're going to take back his hostage."
+        aa "Desunately not, though I need to know if you're going to take back his hostage desu."
 
         "Yeah, I'm gonna get my brother back.":
 
