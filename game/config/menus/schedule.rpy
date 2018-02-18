@@ -30,4 +30,56 @@ screen schedule():
     
         style_prefix "schedule"
 
-        text _("{b}Animarathon XVI: Schedule{/b}\n")
+        text _("{b}Animarathon XVI: Day 1 Schedule{/b}")
+
+        text _("{b}Events starting at 9AM{/b}\n")
+
+        text _("{b}Advanced Cosplay Panel{/b} - Large Panel Room\n")
+
+        text _("Learn about cosplay techniques!\n")
+
+        text _("{b}Taiko Today!{/b} - Small Panel Room\n")
+
+        text _("Learn about Japanese Taiko Drums!\n")
+
+        text _("{b}Events starting at 10AM{/b}\n")
+
+        text _("{b}Kawaii Kafe!{/b} - Mandatory!\n")
+
+        text _("{b}Events starting at Noon{/b}\n")
+
+        text _("{b}GPM Dë-Vërsë is Hell{/b} - Large Panel Room\n")
+
+        text _("Dëstroy Dëvërsë.\n")
+
+        text _("{b}The Noodle Panel!{/b} - Small Panel Room\n")
+
+        text _("Don't be a wet noodle! Go to the noodle panel!\n")
+
+        text _("{b}Events starting at 2PM{/b}\n")
+
+        text _("{b}Group Picture{/b} - Mandatory!\n")
+
+        text _("Let's take a group photo!\n")
+
+        text _("{b}Events starting at 3PM{/b}\n")
+
+        text _("{b}Welchert In The Crib: Z{/b} - Large Panel Room\n")
+
+        text _("MEGA WELCHERT FAN ALERT!\n")
+
+        text _("{b}Chinese Cartoon Panel{/b} - Small Panel Room\n")
+
+        text _("{image=chinese 009}!\n")
+
+        text _("{b}Events starting at 5PM{/b}\n")
+
+        text _("{b}ANIMECHATHON{/b} - Large Panel Room\n")
+
+        text _("Do you like ROBOTS? Do you like FIGHTING ROBOTS?\n")
+
+        text _("I ALREADY KNOW THE ANSWER IS YES! GET OVER HERE!\n")
+
+        text _("{b}The [favorite_anime] Panel!{/b} - Small Panel Room\n")
+
+        text _("Let's talk about [favorite_anime]!\n")
