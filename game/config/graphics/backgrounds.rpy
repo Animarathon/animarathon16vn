@@ -63,6 +63,18 @@ image bg garden:
 image bg gym:
     "backgrounds/gym.webp"
 
+image bg streaming gym = LiveComposite(
+    (1920, 1080),
+    (0, 0), "bg gym",
+    (0, 100), "display streaming text",
+    (0, 200), "display streaming text",
+    (200, 400), "display streaming text",
+    (1000, 600), "display streaming text",
+    (1000, 0), "display streaming text",
+    (900, 100), "display streaming text",
+    (1100, 200), "display streaming text",
+    (900, 420), "display streaming text")
+
 image bg hallway fancy:
     "backgrounds/hallway fancy.webp"
 

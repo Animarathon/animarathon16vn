@@ -43,7 +43,7 @@
 
 label gpm:
 
-    scene bg gym
+    scene bg streaming gym
     with dissolve
 
     play music yo_p0 fadeout 1
@@ -86,10 +86,6 @@ label gpm_menu:
     return
 
 label gpm_awake:
-
-    show first streaming text
-    show second streaming text
-    show third streaming text
 
     # Begin Ebook conversation
 
@@ -201,10 +197,6 @@ label gpm_awake:
     hide gpm
     with easeoutright
 
-    hide first streaming text
-    hide second streaming text
-    hide third streaming text
-
     stop music fadeout 1
 
     show black
@@ -236,7 +228,7 @@ label gpm_awake:
 
             pass
 
-    hide black
+    scene bg gym
     with dissolve
 
     play music breathe_short fadeout 1

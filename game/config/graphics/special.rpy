@@ -936,37 +936,12 @@ image streaming text random:
     choice:
         "streaming text 119"
 
-image first streaming text:
+image display streaming text:
     block:
+        alpha 0.0
         "streaming text random"
-        xalign 5.0
-        choice:
-            yalign 0.0
-        choice:
-            yalign 0.1
-        linear 13.0 xalign -5.0
-        repeat
-
-image second streaming text:
-    block:
-        "streaming text random"
-        xalign 5.0
-        choice:
-            yalign 0.3
-        choice:
-            yalign 0.4
-        linear 13.0 xalign -5.0
-        repeat
-
-image third streaming text:
-    block:
-        "streaming text random"
-        xalign 5.0
-        choice:
-            yalign 0.5
-        choice:
-            yalign 0.6
-        linear 13.0 xalign -5.0
+        linear 5.0 alpha 1.0
+        linear 5.0 alpha 0.0
         repeat
 #   ___  _   _               
 #  / _ \| |_| |__   ___ _ __ 
