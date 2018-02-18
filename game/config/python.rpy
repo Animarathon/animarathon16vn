@@ -59,19 +59,18 @@ init python:
     #  \ \ /\ / / _ \ '_ \___ \ / _ \ '__\ \ / / _ \ '__|
     #   \ V  V /  __/ |_) |__) |  __/ |   \ V /  __/ |
     #    \_/\_/ \___|_.__/____/ \___|_|    \_/ \___|_|
-    # Deal with CORS or assets will not load! Holy Toledo web devs!
-    # Alas! SimpleHTTPServer isn't playing nice with Ren'Py! The Humanity!
-    # Who could have forseen that a webserver would not play nice with a VN?
+    # Deal with CORS or assets will not load in some cases.
+    # SimpleHTTPServer isn't playing nice with Ren'Py.
     # Ren'Py uses python 2.x not 3.x. If that changes please use http.server.
 
-label update_fov:
+# label update_fov:
     #  _____    _ _ _     _____ _ _
     # | ____|__| (_) |_  |  ___(_) | ___ 
     # |  _| / _` | | __| | |_  | | |/ _ \
     # | |__| (_| | | |_  |  _| | | |  __/
     # |_____\__,_|_|\__| |_|   |_|_|\___|
-    python:
-        vrfile = open("deverse ebook.html", "a")
+    # python:
+        # vrfile = open("deverse ebook.html", "a")
         # TODO: Search for fov="80" and update it with fov="fov"
-        vrfile.close()
-    return
+        # vrfile.close()
+    # return
