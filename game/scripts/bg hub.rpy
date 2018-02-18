@@ -141,124 +141,133 @@ screen hub_buttons:
     # First Floor
 
     if False:
-        textbutton ("{image=pub icon}"):
+        vbox:
+            textbutton ("{image=pub icon}"):
 
-            xpos 120
+                xpos 120
 
-            xanchor 0.5
+                xanchor 0.5
 
-            ypos 780
+                ypos 780
 
-            yanchor 0.5
+                yanchor 0.5
 
-            action Return("pub")
-
-    if True:
-        textbutton ("{image=coffee icon}"):
-
-            xpos 250
-
-            xanchor 0.5
-
-            ypos 850
-
-            yanchor 0.5
-
-            action Return("coffee")
+                action Return("pub")
 
     if True:
-        textbutton ("{image=food icon}"):
+        vbox:
+            textbutton ("{image=coffee icon}"):
 
-            xpos 350
+                xpos 250
 
-            xanchor 0.5
+                xanchor 0.5
 
-            ypos 750
+                ypos 850
 
-            yanchor 0.5
+                yanchor 0.5
 
-            action Return("food")
+                action Return("coffee")
+
+    if True:
+        vbox:
+            textbutton ("{image=food icon}"):
+
+                xpos 350
+
+                xanchor 0.5
+
+                ypos 750
+
+                yanchor 0.5
+
+                action Return("food")
 
     # Second Floor
 
     if True:
-        textbutton ("{image=aa icon}"):
+        vbox:
+            textbutton ("{image=aa icon}"):
 
-            xpos 350
+                xpos 350
 
-            xanchor 0.5
+                xanchor 0.5
 
-            ypos 580
+                ypos 580
 
-            yanchor 0.5
+                yanchor 0.5
 
-            action Return("artist")
+                action Return("artist")
 
     if (time >= 10) and (time < 12):
-        textbutton ("{image=kawaii icon}"):
+        vbox:
+            textbutton ("{image=kawaii icon}"):
 
-            xpos 500
+                xpos 500
 
-            xanchor 0.5
+                xanchor 0.5
 
-            ypos 620
+                ypos 620
 
-            yanchor 0.5
+                yanchor 0.5
 
-            action Return("kawaii")
+                action Return("kawaii")
 
     if True:
-        textbutton ("{image=large icon}"):
+        vbox:
+            textbutton ("{image=large icon}"):
 
-            xpos 700
+                xpos 700
 
-            xanchor 0.5
+                xanchor 0.5
 
-            ypos 530
+                ypos 530
 
-            yanchor 0.5
+                yanchor 0.5
 
-            action Return("large panel room")
+                action Return("large panel room")
 
     # Third Floor
 
     if True:
-        textbutton ("{image=small icon}"):
+        vbox:
+            textbutton ("{image=small icon}"):
 
-            xpos 640
+                xpos 640
 
-            xanchor 0.5
+                xanchor 0.5
 
-            ypos 400
+                ypos 400
 
-            yanchor 0.5
+                yanchor 0.5
 
-            action Return("small panel room")
+                action Return("small panel room")
 
     if False:
-        textbutton ("{image=game icon}"):
+        vbox:
+            textbutton ("{image=game icon}"):
 
-            xpos 300
+                xpos 300
 
-            xanchor 0.5
+                xanchor 0.5
 
-            ypos 450
+                ypos 450
 
-            yanchor 0.5
+                yanchor 0.5
 
-            action Return("game")
+                action Return("game")
 
     # Fourth Floor
 
     if True:
-        textbutton ("{image=4 unselected icon}"):
+        vbox:
+            textbutton ("{image=4 unselected icon}"):
 
-            xpos 450
+                xpos 450
 
-            xanchor 0.5
+                xanchor 0.5
 
-            ypos 230
+                ypos 230
 
-            yanchor 0.5
+                yanchor 0.5
 
-            action Return("fourth floor")
+                action Return("fourth floor")
