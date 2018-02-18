@@ -32,4 +32,16 @@ screen codex():
 
         text _("""{b}Codex{/b}
 
+{b}Subcultures: Anime & Otaku{/b}
+
+{b}Anime{/b} - Japanese term for Animation.
+
+{b}Cosplay{/b} - The art of dressing up as a character.
+
+Although cosplay is associated with Japan, it originated in Cincinnati Ohio.
+
+{b}Subcultures: Bowling Green{/b}
+
+{b}ANWO{/b} - Anime In Northwest Ohio.
+
 """)
