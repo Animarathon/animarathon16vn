@@ -15,7 +15,7 @@
    viewBox="0 0 360.80298 574.00542"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="frog sensei kidnap.svg"
    inkscape:export-filename="/home/mbrickn/Projects/Operation-Ohio/game/images/characters/frog sensei/frog sensei kidnap.webp.png"
    inkscape:export-xdpi="90"
@@ -506,15 +506,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497476"
-     inkscape:cx="314.73876"
-     inkscape:cy="1368.1797"
+     inkscape:cx="-89.322247"
+     inkscape:cy="1360.0985"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -590,15 +590,6 @@
        d="m 280.88338,109.97388 c 0,0 31.13309,-17.189148 50.40176,-14.991423 19.26866,2.197724 86.30037,24.479123 65.68517,31.822343 -20.61521,7.34322 -40.0081,11.78183 -40.0081,11.78183 0,0 -22.24354,-19.25129 -30.03266,-22.78669 -7.78911,-3.53541 -46.04617,-5.82606 -46.04617,-5.82606 z"
        id="path4595"
        inkscape:connector-curvature="0" />
-    <g
-       id="g4584">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4569"
-         transform="scale(0.26458333)"
-         d="m 1751.3555,578.4082 c 0,0 -54.3898,74.98939 -86.295,112.5918 -13.6735,124.20178 66.0884,211.94026 214.2188,283.72656 -66.0891,134.45694 110.5293,378.30274 110.5293,378.30274 l 6.1914,-0.2305 a 76.91387,76.91387 0 0 0 -3.1035,21.4297 76.91387,76.91387 0 0 0 76.914,76.9141 76.91387,76.91387 0 0 0 76.9141,-76.9141 76.91387,76.91387 0 0 0 -4.8965,-26.8711 l 0.668,-0.025 c 0,0 72.9258,-77.4828 42.1601,-239.2871 -30.7654,-161.80397 -124.2011,-205.10349 -124.2011,-205.10349 0,0 20.5096,-46.71812 -66.0899,-176.61719 C 1907.7659,596.42511 1751.3555,578.4082 1751.3555,578.4082 Z"
-         style="fill:url(#linearGradient4608);fill-opacity:1;stroke:none;stroke-width:2.25602674px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
     <path
        style="fill:#e9bfaf;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 280.88338,109.97388 24.0016,32.82468 52.07723,-4.21193 c -22.72577,-29.26595 -41.12333,-26.93191 -76.07883,-28.61275 z"
@@ -611,6 +602,15 @@
        id="path4628"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscssc" />
+    <g
+       id="g4584">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4569"
+         transform="scale(0.26458333)"
+         d="m 1751.3555,578.4082 c 0,0 -54.3898,74.98939 -86.295,112.5918 -13.6735,124.20178 66.0884,211.94026 214.2188,283.72656 -66.0891,134.45694 110.5293,378.30274 110.5293,378.30274 l 6.1914,-0.2305 a 76.91387,76.91387 0 0 0 -3.1035,21.4297 76.91387,76.91387 0 0 0 76.914,76.9141 76.91387,76.91387 0 0 0 76.9141,-76.9141 76.91387,76.91387 0 0 0 -4.8965,-26.8711 l 0.668,-0.025 c 0,0 72.9258,-77.4828 42.1601,-239.2871 -30.7654,-161.80397 -124.2011,-205.10349 -124.2011,-205.10349 0,0 20.5096,-46.71812 -66.0899,-176.61719 C 1907.7659,596.42511 1751.3555,578.4082 1751.3555,578.4082 Z"
+         style="fill:url(#linearGradient4608);fill-opacity:1;stroke:none;stroke-width:2.25602674px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
     <path
        style="fill:url(#linearGradient4635);fill-opacity:1;stroke:none;stroke-width:4.93403864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1879.1113,494.02539 c 0,0 -17.4919,39.35663 -205.5273,78.71289 -110.2288,23.07115 -75.9374,60.16211 -28.6914,86.91211 -96.6262,15.50262 -210.6203,35.30714 -264.25,26.26563 -43.0674,-7.26079 -78.6005,-26.61072 -107.9082,-44.51758 20.5803,-21.85661 -8.6383,-2.95352 -63.1074,-61.83594 -67.681,-73.16485 -89.9511,-112.3668 -89.9511,-112.3668 -13.9395,183.59661 45.4921,231.89414 45.4921,231.89414 59.5733,185.94051 79.958,214.95748 33.4453,423.86526 l 491.9531,1.6308 c 22.4949,-27.4384 2.5222,-157.15843 9.6387,-207.63863 14.6751,-104.09599 44.5191,-154.04954 100.7832,-263.44922 33.5676,-28.18203 67.0261,-76.57232 78.123,-159.47266 z"

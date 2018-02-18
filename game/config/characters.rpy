@@ -249,14 +249,15 @@ define pj = Character(
                     ctc="pachi ctc"
                     )
 
-#  __  __            _               ___  _     _ _
-# |  \/  | __ ___  _(_)_ __   ___   / _ \| |__ | (_) __ _  ___ 
-# | |\/| |/ _` \ \/ / | '_ \ / _ \ | | | | '_ \| | |/ _` |/ _ \
-# | |  | | (_| |>  <| | | | |  __/ | |_| | |_) | | | (_| |  __/
-# |_|  |_|\__,_/_/\_\_|_| |_|\___|  \___/|_.__/|_|_|\__, |\___|
-#                                                   |___/
-# Maxine "Moe" Oblige is a young women with a large trust fund.
-# She aspires to be a venture capitalist and is trying to get a feel for many different industries.
+# __  __               ___  _     _ _                 
+# |  \/  | ___   ___   / _ \| |__ | (_) ___  __ _  ___ 
+# | |\/| |/ _ \ / _ \ | | | | '_ \| | |/ _ \/ _` |/ _ \
+# | |  | | (_) |  __/ | |_| | |_) | | |  __/ (_| |  __/
+# |_|  |_|\___/ \___|  \___/|_.__/|_|_|\___|\__, |\___|
+#                                           |___/      
+# "Moe" Oblige is a young women with a large trust fund.
+# She aspires to be a venture capitalist and inventor one day.
+# Hates people who interfere with her business.
 # Color Scheme: Gold and Sapphire
 # Flavor: Caviar
 # Age: 18
@@ -597,23 +598,29 @@ define sk = Character(
 #  \____|\__,_|\___||___/\__|___/
 
 define guest = Character("Guest", ctc="ctc", image="guest")
+# Fallback. Do not use under normal circuimstances.
 
 define guest_otaku = Character("Otaku Guest", ctc="ctc")
 # Use otaku speak. Does not understand Japanese honorifics at all, but thinks they do.
 
 define guest_cosplayer = Character("Cosplayer Guest", ctc="ctc")
+# FIXME: Check if I used this anywhere. If not remove.
 
 define guest_gamer = Character("Gamer Guest", ctc="ctc")
 # Use 1337 Sp33k
 
 define guest_hand_raise = Character("Hand Raising Guest", ctc="ctc")
+# FIXME: Check if I used this anywhere. If not remove.
 
 define guest_furry = Character("Furry Guest", ctc="ctc")
+# Use furry terminology
 
 define guest_fairy = Character("Fairy Guest", ctc="ctc")
+# Use a mix of celtic and hippy speak.
 
 define mrcustard = Character("Mr. Custard", ctc="ctc")
-# Undercover Chef headhunting Paz Ta
+# Undercover Chef alegedly headhunting Paz Ta
+# Really working with Paz Ta looking for a source of human meat.
 
 define guest_cyber = Character("Cyber Guest", ctc="ctc")
 
@@ -621,10 +628,13 @@ define guest_funky = Character("Funky Guest", ctc="ctc")
 # Use groovy speak
 
 define guest_welchertaku = Character("Welchertaku Guest", ctc="ctc")
+# Won't shut up about Welchert in the Crib: Z
 
 define guest_cosplay_cop =  Character("Cosplay Cop", ctc="ctc")
+# Super Fashionista
 
 define guest_traffic_head =  Character("Traffic Head Guest", ctc="ctc")
+# Lost after getting stuck in a traffic cone in Kent.
 
 #  _   _ _   _ _ _ _
 # | | | | |_(_) (_) |_ _   _ 
@@ -633,17 +643,7 @@ define guest_traffic_head =  Character("Traffic Head Guest", ctc="ctc")
 #  \___/ \__|_|_|_|\__|\__, |
 #                      |___/ 
 
-define staff = Character("Animarathon Staff", ctc="ctc")
-
-define police = Character("Police", ctc="ctc")
-
-define panelist = Character("Panelist", ctc="ctc")
-
 define system = Character("System", ctc="ctc")
-
-define dc = Character("Developer Commentary", ctc="ctc")
-
-define mystery = Character("???", ctc="ctc")
 
 #   ___  _     _           _
 #  / _ \| |__ (_) ___  ___| |_ ___ 
@@ -657,25 +657,4 @@ define mn = Character("Mouthwash Note", ctc="ctc")
 
 define sz = Character("SEZSEZ Note", ctc="ctc")
 
-define twentyd = Character("Twenty Dollar Bill", ctc="ctc")
-
-define machine = Character("Machine", ctc="ctc")
-
 define kawaii_m = Character("Kawaii Cafe Menu", who_color="#e56372", ctc="ctc")
-
-#  ____   _    _   _ ____    _
-# |  _ \ / \  | \ | |  _ \  / \   
-# | |_) / _ \ |  \| | | | |/ _ \  
-# |  __/ ___ \| |\  | |_| / ___ \ 
-# |_| /_/   \_\_| \_|____/_/   \_\
-# Ann's Personal Area Network Digital Assistant.
-# Blazing fast 16MHz 16 bit processor!
-# Dedicated NLP Hardware
-# Inferred Comms built in!
-# 60GHz Comms Suite modded in!
-# Long Range QE comms built in!
-# 2MB of RAM!
-# Battery backed storage!
-# Connects with a serial cable!
-define panda = Character("PANDA")
- 

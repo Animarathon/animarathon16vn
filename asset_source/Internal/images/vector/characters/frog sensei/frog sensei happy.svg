@@ -15,7 +15,7 @@
    viewBox="0 0 360.80298 574.00542"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="frog sensei happy.svg"
    inkscape:export-filename="/home/mbrickn/Projects/Operation-Ohio/game/images/characters/frog sensei/frog sensei happy.png"
    inkscape:export-xdpi="90"
@@ -451,15 +451,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
-     inkscape:cx="585.83715"
-     inkscape:cy="1616.542"
+     inkscape:cx="-222.28486"
+     inkscape:cy="1600.3796"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -530,6 +530,12 @@
      inkscape:label="Body"
      style="display:inline"
      transform="translate(-219.22406,-9.1510106)">
+    <path
+       style="fill:url(#linearGradient4616);fill-opacity:1;stroke:none;stroke-width:0.3817907px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 316.62853,158.67165 c 0,0 18.51205,139.61141 54.76471,171.23609 36.25266,31.62468 128.81275,-0.77134 128.81275,-0.77134 0,0 -61.48902,-58.90413 -23.70905,-156.73729 3.78223,-9.79428 -55.25859,7.07869 -68.52613,0.99118 -40.73208,-18.68901 -91.34228,-14.71864 -91.34228,-14.71864 z"
+       id="path4628"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssc" />
     <g
        id="g4512">
       <path
@@ -554,12 +560,6 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <path
-       style="fill:url(#linearGradient4616);fill-opacity:1;stroke:none;stroke-width:0.3817907px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 316.62853,158.67165 c 0,0 18.51205,139.61141 54.76471,171.23609 36.25266,31.62468 128.81275,-0.77134 128.81275,-0.77134 0,0 -61.48902,-58.90413 -23.70905,-156.73729 3.78223,-9.79428 -55.25859,7.07869 -68.52613,0.99118 -40.73208,-18.68901 -91.34228,-14.71864 -91.34228,-14.71864 z"
-       id="path4628"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscssc" />
     <path
        style="fill:url(#linearGradient4635);fill-opacity:1;stroke:none;stroke-width:4.93403864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1879.1113,494.02539 c 0,0 -17.4919,39.35663 -205.5273,78.71289 -110.2288,23.07115 -75.9374,60.16211 -28.6914,86.91211 -96.6262,15.50262 -210.6203,35.30714 -264.25,26.26563 -43.0674,-7.26079 -78.6005,-26.61072 -107.9082,-44.51758 20.5803,-21.85661 15.4037,-45.40337 -63.1074,-61.83594 -188.0354,-39.35626 -205.5274,-78.71289 -205.5274,-78.71289 24.7798,185.12005 161.0684,198.24023 161.0684,198.24023 59.5733,185.94051 79.958,214.95748 33.4453,423.86526 l 491.9531,1.6308 c 22.4949,-27.4384 2.5222,-157.15843 9.6387,-207.63863 14.6751,-104.09599 44.5191,-154.04954 100.7832,-263.44922 33.5676,-28.18203 67.0261,-76.57232 78.123,-159.47266 z"
