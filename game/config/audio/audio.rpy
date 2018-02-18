@@ -30,8 +30,6 @@ define audio.click = "audio/click.opus"
 # The Window Break Sound Effect
 # A sparkling juice glass bottle clinking with a mineral water glass bottle.
 
-define audio.window_break = "audio/window break.opus"
-
 define audio.window_break_left = "audio/window break left.opus"
 
 define audio.window_break_right = "audio/window break right.opus"
