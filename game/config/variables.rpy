@@ -430,30 +430,6 @@ default fries_consumed = 0
     
 default cheez_price = 0.17
 default cheez_consumed = 0
-    
-default sun_price = 0.11
-default sun_consumed = 0
-    
-default satay_price = 0.99
-default satay_consumed = 0
-    
-default mee_price = 1.00
-default mee_consumed = 0
-    
-default roti_price = 1.00
-default roti_consumed = 0
-    
-default char_price = 1.00
-default char_consumed = 0
-
-default malay_burger_price = 1.99
-default malay_burger_consumed = 0
-
-default kek_price = 3.99
-default kek_consumed = 0
-    
-default ABC_price = 2.99
-default ABC_consumed = 0
 
 default waffle_price = 2.99
 default waffle_consumed = 0
@@ -478,24 +454,3 @@ default coffee_consumed = 0
     
 default teh_price = 0.99
 default teh_consumed = 0
-    
-#     _    _           _           _   ____       _               
-#    / \  | | ___ ___ | |__   ___ | | |  _ \ _ __(_) ___ ___  ___ 
-#   / _ \ | |/ __/ _ \| '_ \ / _ \| | | |_) | '__| |/ __/ _ \/ __|
-#  / ___ \| | (_| (_) | | | | (_) | | |  __/| |  | | (_|  __/\__ \
-# /_/   \_\_|\___\___/|_| |_|\___/|_| |_|   |_|  |_|\___\___||___/
-
-default beer_price = 3.99
-default beer_consumed = 0
-    
-default cider_price = 3.99
-default cider_consumed = 0
-    
-default wine_price = 6.99
-default wine_consumed = 0
-    
-default sake_price = 7.99
-default sake_consumed = 0
-
-default erie_highball_price = 0.25
-default erie_highball_consumed = 0

@@ -29,12 +29,6 @@
 # |  _| (_) | (_) | (_| |
 # |_|  \___/ \___/ \__,_|
 
-image coffee cup:
-    "items/coffee cup.webp"
-
-image kek:
-    "items/kek.webp"
-
 image candy:
     "items/candy.webp"
     subpixel True
@@ -64,18 +58,6 @@ image sezsez note:
 
 image manga frog sensei:
     "kirsten_art/manga frog sensei.webp"
-
-#  _____ _           _                   _          
-# | ____| | ___  ___| |_ _ __ ___  _ __ (_) ___ ___ 
-# |  _| | |/ _ \/ __| __| '__/ _ \| '_ \| |/ __/ __|
-# | |___| |  __/ (__| |_| | | (_) | | | | | (__\__ \
-# |_____|_|\___|\___|\__|_|  \___/|_| |_|_|\___|___/
-
-image vr:
-    "items/vr.webp"
-
-image cutter:
-    "items/cutter.webp"
 
 #   ____                            _                
 #  / ___|___  _ __ ___  _ __  _   _| |_ ___ _ __ ___ 
