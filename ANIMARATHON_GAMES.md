@@ -27,7 +27,8 @@ A yandare appears at Animarathon! Can our kitsune keep her in line?
 ## Animarathon VN 4: Saving Animarathon!
 2006
 
-After being expelled from the union, a wily kitsune comes up with a plan to save Animarathon!
+After being expelled from the union,
+a wily kitsune comes up with a plan to save Animarathon!
 
 ## Animarathon VN 5: Battle of the Bands!
 2007
@@ -38,20 +39,23 @@ Can he win the battle of the bands?
 ## Animarathon VN 6: Ay Ziggy Zombie!
 2008
 
-Our wily kitsune tries to increase attendance! However it turns into a zombie apocalypse!
+Our wily kitsune tries to increase attendance!
+However it turns into a zombie apocalypse!
 Can our hero right his wrongs?!
 
 ## Animarathon VN 7: Sacrificial Sprint
 2009
 
-A direct successor to our 4th VN, our wily kitsune saves Animarathon! But at what cost?!
+A direct successor to our 4th VN, our wily kitsune saves Animarathon!
+But at what cost?!
 Can Chibi Steve save him before it's too late?
 
 ## Animarathon VN 8: Wooster Warriors!
 2010
 
 A new take on Animarathon, featuring our new mascots Ann and Orion!
-When brother and sister decide to leave campus to grab a bite to eat during Animarathon, they bite off more then they can chew!
+When brother and sister decide to leave campus to eat during Animarathon, 
+they bite off more then they can chew!
 Will our heroes prevail, or will the deadly killer Wooster street win out?!
 An action packed visual novel about crossing the legendary street!
 
@@ -90,7 +94,7 @@ But their ghosts live on?!?!?!
 YOU the player have to help them out using a real life AM radio!
 Solve the murder and rewind time, before time runs out!
 
-Note: Some computers can't create the right interference for Van Eck Phreaking to work right.
+Note: Some computers are too shielded for Van Eck Phreaking to work right.
 
 ## Animarathon VN 14: Shooting Stars
 2016
@@ -105,7 +109,7 @@ Downloads: 23
 
 ## Animarathon VN 16: Operation Ohio
 2018
-
+Follow Ann as she uncovers a mystery at Animarathon!
 A mystery at Animarathon! Orion has been kidnapped! Can Ann save the day?
 
 Downloads: ???

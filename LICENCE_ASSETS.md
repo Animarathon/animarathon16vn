@@ -6,7 +6,7 @@ This game is licenced under the GNU GPL V3. See LICENCE.md for more information.
 The Following assets are licenced under the CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
 University of Oxford - VGG-19 Model     https://www.robots.ox.ac.uk/%7Evgg/research/very_deep/
-Animarathon XV Custom Art Assets
+Animarathon XV Custom Art Assets        https://animarathon.com/
 
 Creative Commons Attribution 4.0 International Public License
 
@@ -106,7 +106,7 @@ Section 8 – Interpretation.
 
 # CC 0
 The Following Assets are licenced under the CC 0 https://creativecommons.org/publicdomain/zero/1.0/
-* Assets from The Met       http://www.metmuseum.org/
+* Assets from The Met       https://www.metmuseum.org/
 * Kenny's UI Audio Pack     https://kenney.nl/assets/digital-audio
 * Kenny's Voiceover Pack    https://kenney.nl/assets/voiceover-pack
 * Kenny's Casino Audio      https://kenney.nl/assets/casino-audio
@@ -145,10 +145,11 @@ For these and/or other purposes and motivations, and without any expectation of 
 The Following Assets are licenced under the CC PD https://creativecommons.org/publicdomain/mark/1.0/
 
 The MuseOpen String Quartet No. 6 in B Flat Major - IV              https://musopen.org/music/1589/ludwig-van-beethoven/string-quartet-no-6-in-b-flat-major-op-18-no-6/
-The MuseOpen String Quartet No. 15 In Dm, K. 421 - I                https://musopen.org/music/1596/wolfgang-amadeus-mozart/string-quartet-no-15-in-dm-k-421/
 Skidmore College Orchestra  Promenade Moderator non tanto pesante   https://musopen.org/music/107/modest-mussorgsky/pictures-at-an-exhibition/
 
 # A-Frame Licence
+https://aframe.io/
+
 The MIT License
 
 Copyright © 2015-2017 A-Frame authors.

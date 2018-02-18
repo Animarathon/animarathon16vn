@@ -1,7 +1,7 @@
 # Contributors
 
 This is to the people who worked on this game specifically.
-For the open source assets used, see options.rpy and other files.
+For the open source assets used, see options.rpy and other files for more info.
 
 ## Maxwell Brickner
 

@@ -25,6 +25,7 @@ Most of these refer to specific locations in Ohio.
 * Maumee
 * Sichuan
 * Tanegashima
+* Timaru
 
 ## Other
 
