@@ -367,12 +367,6 @@ default favorite_anime_price = 94.13
     
 default favorite_anime_get = False # Normal Item system isn't working for some reason and I'm out of time.
 # Bool
-    
-default dirk_manning_anime_price = 74.80
-# Float
-
-default dirk_manning_anime_get = False # Normal Item system isn't working for some reason and I'm out of time.
-# Bool
 
 default tadpole_sensei_manga = False
 # Bool
@@ -433,15 +427,6 @@ default cheez_consumed = 0
 
 default waffle_price = 2.99
 default waffle_consumed = 0
-
-#  __  __       _   _    __     ___                 _   ____       _               
-# |  \/  | __ _| |_| |_  \ \   / (_)___ _   _  __ _| | |  _ \ _ __(_) ___ ___  ___ 
-# | |\/| |/ _` | __| __|  \ \ / /| / __| | | |/ _` | | | |_) | '__| |/ __/ _ \/ __|
-# | |  | | (_| | |_| |_    \ V / | \__ \ |_| | (_| | | |  __/| |  | | (_|  __/\__ \
-# |_|  |_|\__,_|\__|\__|    \_/  |_|___/\__,_|\__,_|_| |_|   |_|  |_|\___\___||___/
-
-default ginger_ale_price = 0.59
-default ginger_ale_consumed = 0
     
 #   ____       __  __               _____            ____       _               
 #  / ___|___  / _|/ _| ___  ___   _|_   _|__  __ _  |  _ \ _ __(_) ___ ___  ___ 

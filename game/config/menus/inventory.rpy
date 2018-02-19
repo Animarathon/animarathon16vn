@@ -28,3 +28,12 @@ screen inventory():
         style_prefix "inventory"
 
         text _("{b}Ann's Inventory{/b}\n")
+
+        if dakimakura_ann == True:
+
+            text _("{b}[a] Dakimakura{/b}\n")
+
+        if dakimakura_fs == True:
+
+            text _("{b}[fs] Dakimakura{/b}\n")
+            
