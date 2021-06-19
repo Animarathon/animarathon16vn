@@ -84,6 +84,7 @@ label start:
     # Write results
 
     python:
+        file = open("results.txt","x")
         file = open("results.txt","w")
         file.write("Trials" + trials + "Succeeded Pecks" + succeeded_pecks)
         file.close()
