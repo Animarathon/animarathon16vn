@@ -66,11 +66,11 @@ label start:
 
             $ succeeded_pecks = succeeded_pecks + 1
 
-            "success"
+            "Success"
 
         if _return == "background":
 
-            "failure"
+            "Failure"
 
         "Number of successful pecks is [succeeded_pecks]"
 
@@ -80,14 +80,6 @@ label start:
             return
 
         jump main_loop
-
-    # Write results
-
-    python:
-        file = open("results.txt","x")
-        file = open("results.txt","w")
-        file.write("Trials" + trials + "Succeeded Pecks" + succeeded_pecks)
-        file.close()
 
     # Exit to main menu
     return
