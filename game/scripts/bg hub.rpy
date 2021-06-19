@@ -1,273 +1,92 @@
-# Animarathon XVI: Operation Ohio Bowling Green Hub
-# 
-# Copyright (C) 2018  Anime In Northwest Ohio
-# 
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# 
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# 
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#
-# Author :      Maxwell Paul Brickner
-# Maintainer :  Maxwell Paul Brickner
+# Define hex color for background.
+image bg black = "#000000"
+image circlebutton = "circle.png"
+image backgroundbutton = "backgroundbutton.png"
 
-label bg_hub:
+# Skip main menu on boot.
+# label main_menu:
+#    return
 
-    play music breathe_short fadeout 1
-
-    call display_time
-    # Show the time to the player
-
-    scene sky blue
-    with dissolve
-    show bg tile yellow
-    with dissolve
-    # Create a tiled background
-
-    show union3d at left
-    # Show the union map.
-
-    show side_schedule at right
-    # Show a schedule to help the player make decisions.
-
-    window hide None
-    # This hides the textbox to make room for the GUI.
-
-    pause(1.0)
-
-    call screen hub_buttons
-    # Create the button interface
-
-    window show None
-    # This returns the textbox.
-
-    # __        __               _
-    # \ \      / /_ _ _ __ _ __ (_)_ __   __ _ 
-    #  \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |
-    #   \ V  V / (_| | |  | | | | | | | | (_| |
-    #    \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |
-    #                                    |___/ 
-    # returned strings must be exactly the same!
-    # If "food" is returned and you check for "Food" you'll fail!
-
-    # Enabled Rooms
-
-    if _return == "large panel room":
-
-        hide union3d with dissolve
-
-        hide side_schedule with dissolve
-
-        call large_panel_room
-
-    if _return == "small panel room":
-
-        hide union3d with dissolve
-
-        hide side_schedule with dissolve
-
-        call small_panel_room
-
-    if _return == "artist":
-
-        hide union3d with dissolve
-
-        hide side_schedule with dissolve
-
-        call artist
-
-    if _return == "food":
-
-        hide union3d with dissolve
-
-        hide side_schedule with dissolve
-
-        call food
-
-    if _return == "coffee":
-
-        hide union3d with dissolve
-
-        hide side_schedule with dissolve
-
-        call coffee
-
-    if _return == "fourth floor":
-
-        hide union3d with dissolve
-
-        hide side_schedule with dissolve
-
-        call fourth_floor
-
-    if _return == "kawaii":
-
-        hide union3d with dissolve
-
-        hide side_schedule with dissolve
-
-        call kawaii_kafe
-
-        $ time_factor = 2
-        call advance_time
-
-    # Disabled Rooms
-
-    #if _return == "game":
-    #
-    #    call gaming
-
-    #if _return == "pub":
-    #
-    #    call pub
-
-    # Return to the main loop
-    return
-
-#  _   _ _   _ ____     ____ _   _ ___ 
-# | | | | | | | __ )   / ___| | | |_ _|
-# | |_| | | | |  _ \  | |  _| | | || | 
-# |  _  | |_| | |_) | | |_| | |_| || | 
-# |_| |_|\___/|____/   \____|\___/|___|
-screen hub_buttons:
-
-    # First Floor
-
-    if False:
-        vbox:
-            textbutton ("{image=pub icon}"):
-
-                xpos 120
-
-                xanchor 0.5
-
-                ypos 780
-
-                yanchor 0.5
-
-                action Return("pub")
+screen vis_buttons:
 
     if True:
         vbox:
-            textbutton ("{image=coffee icon}"):
+            textbutton ("{image=backgroundbutton}"):
 
-                xpos 250
+                xpos 0
 
-                xanchor 0.5
+                xanchor 0
 
-                ypos 850
+                ypos 0
 
-                yanchor 0.5
+                yanchor 0
 
-                action Return("coffee")
-
+                action Return("background")
     if True:
         vbox:
-            textbutton ("{image=food icon}"):
-
-                xpos 350
-
-                xanchor 0.5
-
-                ypos 750
-
-                yanchor 0.5
-
-                action Return("food")
-
-    # Second Floor
-
-    if True:
-        vbox:
-            textbutton ("{image=aa icon}"):
-
-                xpos 350
-
-                xanchor 0.5
-
-                ypos 580
-
-                yanchor 0.5
-
-                action Return("artist")
-
-    if (time >= 10) and (time < 12):
-        vbox:
-            textbutton ("{image=kawaii icon}"):
+            textbutton ("{image=circlebutton}"):
 
                 xpos 500
 
                 xanchor 0.5
 
-                ypos 620
+                ypos 500
 
                 yanchor 0.5
 
-                action Return("kawaii")
+                action Return("pub")
 
-    if True:
-        vbox:
-            textbutton ("{image=large icon}"):
+# The program starts here.
+label start:
 
-                xpos 700
+    # Variables
+    $ succeeded_pecks = 0
+    $ trials = 0
 
-                xanchor 0.5
+    # Block Rollback
+    $ renpy.block_rollback()
+    $ renpy.retain_after_load()
 
-                ypos 530
+    # Blank screen.
+    scene bg black
 
-                yanchor 0.5
+    label main_loop:
 
-                action Return("large panel room")
+        $ trials = trials + 1
 
-    # Third Floor
+        # Pause program
+        $ ui.pausebehavior(1, result="")
+        $ ui.interact()
 
-    if True:
-        vbox:
-            textbutton ("{image=small icon}"):
+        call screen vis_buttons
 
-                xpos 640
+        window show None
 
-                xanchor 0.5
+        if _return == "pub":
 
-                ypos 400
+            $ succeeded_pecks = succeeded_pecks + 1
 
-                yanchor 0.5
+            "success"
 
-                action Return("small panel room")
+        if _return == "background":
 
-    if False:
-        vbox:
-            textbutton ("{image=game icon}"):
+            "failure"
 
-                xpos 300
+        "Number of successful pecks is [succeeded_pecks]"
 
-                xanchor 0.5
+        "Number of trials is [trials]."
 
-                ypos 450
+        if trials >= 5:
+            return
 
-                yanchor 0.5
+        jump main_loop
 
-                action Return("game")
+    # Write results
 
-    # Fourth Floor
+    python:
+        file = open("results.txt","w")
+        file.write("Trials" + trials + "Succeeded Pecks" + succeeded_pecks)
+        file.close()
 
-    if True:
-        vbox:
-            textbutton ("{image=4 unselected icon}"):
-
-                xpos 450
-
-                xanchor 0.5
-
-                ypos 230
-
-                yanchor 0.5
-
-                action Return("fourth floor")
+    # Exit to main menu
+    return
